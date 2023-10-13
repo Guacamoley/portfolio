@@ -4,6 +4,8 @@
     <img src="assets/website-screenshot.png" alt="Website Screenshot">
 </div>
 
+---
+
 Welcome to my personal website! This is a showcase of my skills in web development, and I've designed it using HTML and CSS.
 
 Still a WIP as I grind out new projects to showcase later on, so the projects section isn't allocated at the moment.
