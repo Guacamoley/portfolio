@@ -1,7 +1,7 @@
 # My Personal Website
 
-<div style="text-align:center; display:block;">
-   ![Website Screenshot](assets/demo.png)
+<div align="center">
+    <img src="assets/demo.png" alt="Website Screenshot">
 </div>
 
 Welcome to my personal website! This is a showcase of my skills in web development, and I've designed it using HTML and CSS.
