@@ -4,9 +4,11 @@ Welcome to my personal website! This is a showcase of my skills in web developme
 
 Still a WIP as I grind out new projects to showcase later on, so the projects section isn't allocated at the moment.
 
+![Deployment Picture](assets/demo.png)
+
 ## Live Deployment
 
-You can access the live deployment of my website at [https://guacamoley.github.io/eportfolio-website/](#).
+You can access the live deployment of my website at [Link](https://guacamoley.github.io/eportfolio-website/).
 
 ## Main Features
 
