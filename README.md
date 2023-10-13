@@ -1,10 +1,10 @@
 # My Personal Website
 
+![Website Screenshot](assets/demo.png)
+
 Welcome to my personal website! This is a showcase of my skills in web development, and I've designed it using HTML and CSS.
 
 Still a WIP as I grind out new projects to showcase later on, so the projects section isn't allocated at the moment.
-
-![Deployment Picture](assets/demo.png)
 
 ## Live Deployment
 
