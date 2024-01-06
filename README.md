@@ -12,7 +12,7 @@ Still a WIP as I grind out new projects to showcase later on, so the projects se
 
 ## Live Deployment
 
-You can access the live deployment of my website at [Link](https://guacamoley.github.io/eportfolio-website/).
+You can access the live deployment of my website at [Link](https://guacamoley.github.io/portfolio/).
 
 ## Main Features
 
